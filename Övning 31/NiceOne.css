@@ -1,0 +1,9 @@
+﻿body {
+    border: 1px solid gray;
+    padding: 8px;
+    font-family: 'Comic Sans MS';
+}
+div {
+    border: 1px solid gray;
+    padding: 8px;
+}
